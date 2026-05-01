@@ -39,3 +39,9 @@ git clone https://github.com/yoojinsu/Upbit-Backtest.git
 cd Upbit-Backtest
 pip install -r requirements.txt
 python main.py
+
+
+본 프로그램은 과거의 데이터를 바탕으로 한 시뮬레이션 도구입니다.
+가상화폐 투자는 원금 초과 손실의 위험이 있으며, 모든 투자 판단의 최종 책임은 사용자 본인에게 있습니다.
+백테스트 결과는 미래의 수익을 보장하지 않으며, 실제 시장 환경(슬리피지, 네트워크 지연 등)에 따라 결과가 달라질 수 있습니다.
+본 프로그램을 사용하여 발생한 어떠한 손실에 대해서도 개발자는 책임을 지지 않습니다.
