@@ -40,7 +40,9 @@ cd Upbit-Backtest
 pip install -r requirements.txt
 python main.py
 ```
-##⚠️ 투자 위험 고지 (Disclaimer)
+---
+
+⚠️ 투자 위험 고지 (Disclaimer)
 본 프로그램은 과거의 데이터를 바탕으로 한 시뮬레이션 프로그램입니다.
 
 가상화폐 투자는 원금 초과 손실의 위험이 있으며, 모든 투자 판단의 최종 책임은 사용자 본인에게 있습니다.
