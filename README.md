@@ -6,9 +6,7 @@
 
 1분봉과 1초봉으로 선택하여 백테스트할 수 있습니다. 이를 분석에 적합한 Parquet 형식으로 변환하여 백테스트 합니다. 
 
-
 (1초봉은 업비트API센터에서 2023년9월1일부터 제공)
-
 
 업비트 마켓데이터 주소: https://www.upbit.com/historical_data/download?prefix=candle
 
