@@ -9,10 +9,24 @@
 - **고해상도 데이터 파이프라인 (High-Resolution Data Processing)**: 1초봉 틱(Tick) 수준의 데이터 병렬 다운로드 및 Parquet 포맷 변환을 통해 슬리피지(Slippage) 및 시장 노이즈(휩쏘)에 대한 초정밀 검증 환경 제공
 - **백테스트 리포트 추출 (Data Export)**: 체결 로그, 진입 지연 시간 및 상세 매매 결과를 엑셀(Excel) 리포트 포맷으로 자동 추출
 
-## 🚀 설치 및 실행 가이드 (Getting Started)
+🚀 설치 및 실행 가이드 (Getting Started)
+1) 필수 환경 (Prerequisites)
+본 프로그램은 Python 3.14+ 환경에 최적화되어 있습니다.  
 
-### 1. 저장소 클론
-로컬 환경에 프로젝트 저장소를 복제하고 해당 디렉토리로 이동합니다.
-```bash
+2) 저장소 복제 및 의존성 설치
+터미널(CMD)을 열고 아래 명령어를 순차적으로 입력하여 라이브러리를 설치합니다.
+
+Bash
+
+# 저장소 복제
 git clone https://github.com/yoojinsu/Upbit-Backtest.git
 cd Upbit-Backtest
+
+# 필수 라이브러리 일괄 설치
+pip install pandas numpy pyupbit PyQt5 matplotlib openpyxl pyarrow requests
+3) 프로그램 실행
+메인 스크립트인 Backtest.py를 실행하여 GUI 환경을 구동합니다.  
+
+Bash
+
+python Backtest.py
