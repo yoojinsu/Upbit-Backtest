@@ -7,6 +7,8 @@
   <img src="./image2.PNG" width="45%" />
 </p>
 
+실전 매매 프로그램 > https://github.com/yoojinsu/Upbit-Autotrade
+
 ## 🛠️ 주요 기능
 
 * **정밀 데이터 분석**: 1분봉 및 1초봉 선택 가능. 분석에 적합한 **Parquet 형식**으로 변환하여 백테스트합니다.
