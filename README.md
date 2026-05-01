@@ -38,8 +38,4 @@
 git clone https://github.com/yoojinsu/Upbit-Backtest.git
 cd Upbit-Backtest
 pip install -r requirements.txt
-python main.py```
-
-마켓 데이터 주소: 업비트 마켓데이터 바
-
-
+python main.py
