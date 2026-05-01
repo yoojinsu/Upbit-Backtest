@@ -54,7 +54,7 @@ python main.py
 
 ---
 
-##✉️ 문의
+## ✉️ 문의
 프로그램 개선 제안이나 사용 관련 문의는 아래 이메일로 연락 부탁드립니다.
 
 Email : jinsu96.yoo@gmail.com
