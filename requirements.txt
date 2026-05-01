@@ -1,0 +1,9 @@
+pandas
+numpy
+pyupbit
+PyQt5
+matplotlib
+requests
+pyarrow
+fastparquet
+openpyxl
