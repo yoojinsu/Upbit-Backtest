@@ -35,7 +35,7 @@ CPU 코어를 모두 활용하여 수만 가지의 파라미터 조합(K값, 보
 아래 순서대로 명령어를 실행해 주세요.
 
 ```bash
-git clone [https://github.com/yoojinsu/Upbit-Backtest.git](https://github.com/yoojinsu/Upbit-Backtest.git)
+git clone https://github.com/yoojinsu/Upbit-Backtest.git
 cd Upbit-Backtest
 pip install -r requirements.txt
 python main.py
