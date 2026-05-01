@@ -14,14 +14,5 @@
 ### 1. 저장소 클론
 로컬 환경에 프로젝트 저장소를 복제하고 해당 디렉토리로 이동합니다.
 ```bash
-git clone [https://github.com/yoojinsu/Upbit-Backtest.git](https://github.com/yoojinsu/Upbit-Backtest.git)
+git clone https://github.com/yoojinsu/Upbit-Backtest.git
 cd Upbit-Backtest
-
-#### 2. 의존성 패키지 설치 
-프로젝트 구동에 필요한 필수 파이썬 라이브러리들을 설치합니다.
-'''bash
-pip install pandas numpy pyupbit PyQt5 matplotlib openpyxl pyarrow requests
-
-3. 프로그램 실행
-'''bash
-python Backtest.py
