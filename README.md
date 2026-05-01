@@ -3,7 +3,7 @@
 비트코인, 이더리움, 리플을 대상으로 변동성 돌파 전략을 지표와 조합하여 백테스팅하는 프로그램입니다.
 
 <p align="center">
-  <img src="./image1.PNG" width="42%" />
+  <img src="./image1.PNG" width="41.5%" />
   <img src="./image2.PNG" width="45%" />
 </p>
 
